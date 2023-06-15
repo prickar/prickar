@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**prickar/prickar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
+
 🌱 Aspiring software developer on a continuous learning journey. <br>Passionate about clean coding and building user-friendly applications. <br>Eager to collaborate on open-source projects. <br>Let's connect and create meaningful solutions together! 👩‍💻🚀
 
 
@@ -17,4 +15,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prickar&theme=swift&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prickar&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
