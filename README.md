@@ -1,3 +1,4 @@
+### Hi, I'm Paola 👋
 
 
 🌱 Aspiring software developer on a continuous learning journey. <br>Passionate about clean coding and building user-friendly applications. <br>Eager to collaborate on open-source projects. <br>Let's connect and create meaningful solutions together! <br><br>
