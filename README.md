@@ -1,7 +1,7 @@
 ### Hi, I'm Paola 👋
 
 
-🌱 Aspiring software developer on a continuous learning journey. <br>Passionate about clean coding and building user-friendly applications. <br>Eager to collaborate on open-source projects. <br>Let's connect and create meaningful solutions together! <br><br>
+🌱 Aspiring software developer on a continuous learning journey. <br> <br>Eager to collaborate on open-source projects. <br>Let's connect and create meaningful solutions together! <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paola-bäckström-vidal-a53366b8) 
 
 # Skills
